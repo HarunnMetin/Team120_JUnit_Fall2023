@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4623b38-7a27-4e6b-8234-bcaec44424d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day05_JUnit_Framework/C02_TestNotasyonu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day06_NotationsAssertions/C01_BeforeAfterNotasyonlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day06_NotationsAssertions/C02_BeforeAfterNotasyonlari.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day05_JUnit_Framework/C01_MavenIlkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day05_JUnit_Framework/C01_MavenIlkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +35,74 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="C01_MavenIlkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day05_JUnit_Framework.C01_MavenIlkTest" />
+  <component name="RunManager" selected="JUnit.C02_BeforeAfterNotasyonlari">
+    <configuration name="C01_BeforeAfterNotasyonlari" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team120_JUnit_Fall2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day06_NotationsAssertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day06_NotationsAssertions" />
+      <option name="MAIN_CLASS_NAME" value="Day06_NotationsAssertions.C01_BeforeAfterNotasyonlari" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_BeforeAfterNotasyonlari.amazonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team120_JUnit_Fall2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day06_NotationsAssertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day06_NotationsAssertions" />
+      <option name="MAIN_CLASS_NAME" value="Day06_NotationsAssertions.C01_BeforeAfterNotasyonlari" />
+      <option name="METHOD_NAME" value="amazonTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_BeforeAfterNotasyonlari.wiseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team120_JUnit_Fall2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day06_NotationsAssertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day06_NotationsAssertions" />
+      <option name="MAIN_CLASS_NAME" value="Day06_NotationsAssertions.C01_BeforeAfterNotasyonlari" />
+      <option name="METHOD_NAME" value="wiseTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_BeforeAfterNotasyonlari" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team120_JUnit_Fall2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day06_NotationsAssertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day06_NotationsAssertions" />
+      <option name="MAIN_CLASS_NAME" value="Day06_NotationsAssertions.C02_BeforeAfterNotasyonlari" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_TestNotasyonu.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
         <pattern>
@@ -47,13 +110,21 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Day05_JUnit_Framework" />
+      <option name="MAIN_CLASS_NAME" value="Day05_JUnit_Framework.C02_TestNotasyonu" />
+      <option name="METHOD_NAME" value="test04" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C01_MavenIlkTest" />
+        <item itemvalue="JUnit.C02_BeforeAfterNotasyonlari" />
+        <item itemvalue="JUnit.C01_BeforeAfterNotasyonlari" />
+        <item itemvalue="JUnit.C01_BeforeAfterNotasyonlari.wiseTest" />
+        <item itemvalue="JUnit.C01_BeforeAfterNotasyonlari.amazonTest" />
+        <item itemvalue="JUnit.C02_TestNotasyonu.test04" />
       </list>
     </recent_temporary>
   </component>
