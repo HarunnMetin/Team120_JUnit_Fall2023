@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4623b38-7a27-4e6b-8234-bcaec44424d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day06_NotationsAssertions/C03_BeforeClassAfterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day06_NotationsAssertions/C04_Assertions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day06_NotationsAssertions/C03_BeforeClassAfterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day06_NotationsAssertions/C03_BeforeClassAfterClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C03_BeforeClassAfterClass.javaTest">
+  <component name="RunManager" selected="JUnit.C03_BeforeClassAfterClass">
     <configuration name="C01_BeforeAfterNotasyonlari" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
@@ -52,22 +53,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_BeforeAfterNotasyonlari.wiseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Team120_JUnit_Fall2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day06_NotationsAssertions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day06_NotationsAssertions" />
-      <option name="MAIN_CLASS_NAME" value="Day06_NotationsAssertions.C01_BeforeAfterNotasyonlari" />
-      <option name="METHOD_NAME" value="wiseTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="C02_BeforeAfterNotasyonlari" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
@@ -78,6 +63,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="Day06_NotationsAssertions" />
       <option name="MAIN_CLASS_NAME" value="Day06_NotationsAssertions.C02_BeforeAfterNotasyonlari" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_BeforeClassAfterClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team120_JUnit_Fall2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day06_NotationsAssertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day06_NotationsAssertions" />
+      <option name="MAIN_CLASS_NAME" value="Day06_NotationsAssertions.C03_BeforeClassAfterClass" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C03_BeforeClassAfterClass" />
         <item itemvalue="JUnit.C03_BeforeClassAfterClass.javaTest" />
         <item itemvalue="JUnit.C03_BeforeClassAfterClass.nutellaTest" />
         <item itemvalue="JUnit.C02_BeforeAfterNotasyonlari" />
         <item itemvalue="JUnit.C01_BeforeAfterNotasyonlari" />
-        <item itemvalue="JUnit.C01_BeforeAfterNotasyonlari.wiseTest" />
       </list>
     </recent_temporary>
   </component>

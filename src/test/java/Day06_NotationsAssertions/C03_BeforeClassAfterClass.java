@@ -1,10 +1,7 @@
 package Day06_NotationsAssertions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import org.junit.AfterClass;
-import org.junit.Before;
-import org.junit.BeforeClass;
-import org.junit.Test;
+import org.junit.*;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
@@ -43,12 +40,17 @@ public class C03_BeforeClassAfterClass {
         //1- title nin Amazon icerdigini test edin
         String expectedIcerik = "Amazon";
         String actualIcerik = driver.getTitle();
+        Assert.assertTrue(actualIcerik.contains(expectedIcerik));
+
+        /*
         if (actualIcerik.contains(expectedIcerik)){
             System.out.println("title testi PASSED");
         }
         else {
             System.out.println("title testi FAILED");
         }
+
+         */
 
     }
     @Test
@@ -62,12 +64,16 @@ public class C03_BeforeClassAfterClass {
         WebElement sonucYaziElemnti = driver.findElement(By.xpath("//*[@id=\"search\"]/span[2]/div/h1/div/div[1]/div/div"));
         String expectedIcerik = "nutella";
         String actualIcerik = sonucYaziElemnti.getText();
+        Assert.assertTrue(actualIcerik.contains(expectedIcerik));
+        /*
         if (actualIcerik.contains(expectedIcerik)){
             System.out.println("icerik testi PASSED");
         }
         else {
             System.out.println("icerik testi FAILED");
         }
+
+         */
 
     }
     @Test
@@ -82,12 +88,17 @@ public class C03_BeforeClassAfterClass {
         String expectedSonucYazisi = "Java";
         String actualSonucYazisi = sonucYazisi.getText();
 
+        Assert.assertTrue(actualSonucYazisi.contains(expectedSonucYazisi));
+
+        /*
         if (actualSonucYazisi.contains(expectedSonucYazisi)){
             System.out.println("sonuc Java iceriyor PASSED");
         }
         else {
             System.out.println("sonuc Java icermiyor FAILED");
         }
+
+         */
 
     }
 
