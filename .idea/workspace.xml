@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4623b38-7a27-4e6b-8234-bcaec44424d1" name="Changes" comment="" />
+    <list default="true" id="d4623b38-7a27-4e6b-8234-bcaec44424d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day07_AssertionsCheckBox/C06_DropDownMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day08_DropDownMenu_Iframe/C01_DropDownMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,41 +29,27 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="JUnit.C05_TestBaseİlkClass.testBase">
-    <configuration name="C02_Assertions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="JUnit.C01_DropDownMenu.dropDownTesti">
+    <configuration name="C01_DropDownMenu.dropDownTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day07_AssertionsCheckBox.*" />
+          <option name="PATTERN" value="Day08_DropDownMenu_Iframe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day07_AssertionsCheckBox" />
-      <option name="MAIN_CLASS_NAME" value="Day07_AssertionsCheckBox.C02_Assertions" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_Assertions.wrongTitleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Team120_JUnit_Fall2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day07_AssertionsCheckBox.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day07_AssertionsCheckBox" />
-      <option name="MAIN_CLASS_NAME" value="Day07_AssertionsCheckBox.C02_Assertions" />
-      <option name="METHOD_NAME" value="wrongTitleTest" />
+      <option name="PACKAGE_NAME" value="Day08_DropDownMenu_Iframe" />
+      <option name="MAIN_CLASS_NAME" value="Day08_DropDownMenu_Iframe.C01_DropDownMenu" />
+      <option name="METHOD_NAME" value="dropDownTesti" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,13 +103,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C06_DropDownMenu.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team120_JUnit_Fall2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day07_AssertionsCheckBox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day07_AssertionsCheckBox" />
+      <option name="MAIN_CLASS_NAME" value="Day07_AssertionsCheckBox.C06_DropDownMenu" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C01_DropDownMenu.dropDownTesti" />
+        <item itemvalue="JUnit.C06_DropDownMenu.test1" />
         <item itemvalue="JUnit.C05_TestBaseİlkClass.testBase" />
         <item itemvalue="JUnit.C04_RadioButtons.radioButtonTest" />
         <item itemvalue="JUnit.C03_CheckBox.checkBoxTest" />
-        <item itemvalue="JUnit.C02_Assertions" />
-        <item itemvalue="JUnit.C02_Assertions.wrongTitleTest" />
       </list>
     </recent_temporary>
   </component>
