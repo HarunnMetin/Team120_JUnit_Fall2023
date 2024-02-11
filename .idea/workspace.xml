@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4623b38-7a27-4e6b-8234-bcaec44424d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day07_AssertionsCheckBox/C01_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day07_AssertionsCheckBox/C02_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day07_AssertionsCheckBox/C03_CheckBox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +37,8 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C01_Assertions">
-    <configuration name="C01_Assertions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C03_CheckBox.checkBoxTest">
+    <configuration name="C02_Assertions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
         <pattern>
@@ -46,13 +47,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Day07_AssertionsCheckBox" />
-      <option name="MAIN_CLASS_NAME" value="Day07_AssertionsCheckBox.C01_Assertions" />
+      <option name="MAIN_CLASS_NAME" value="Day07_AssertionsCheckBox.C02_Assertions" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_Assertions.fransizcaLinkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_Assertions.imgTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
         <pattern>
@@ -61,14 +62,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Day07_AssertionsCheckBox" />
-      <option name="MAIN_CLASS_NAME" value="Day07_AssertionsCheckBox.C01_Assertions" />
-      <option name="METHOD_NAME" value="fransizcaLinkTest" />
+      <option name="MAIN_CLASS_NAME" value="Day07_AssertionsCheckBox.C02_Assertions" />
+      <option name="METHOD_NAME" value="imgTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_Assertions.logoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_Assertions.searchBoxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
         <pattern>
@@ -77,14 +78,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Day07_AssertionsCheckBox" />
-      <option name="MAIN_CLASS_NAME" value="Day07_AssertionsCheckBox.C01_Assertions" />
-      <option name="METHOD_NAME" value="logoTest" />
+      <option name="MAIN_CLASS_NAME" value="Day07_AssertionsCheckBox.C02_Assertions" />
+      <option name="METHOD_NAME" value="searchBoxTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_Assertions.titleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_Assertions.wrongTitleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
         <pattern>
@@ -93,14 +94,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Day07_AssertionsCheckBox" />
-      <option name="MAIN_CLASS_NAME" value="Day07_AssertionsCheckBox.C01_Assertions" />
-      <option name="METHOD_NAME" value="titleTest" />
+      <option name="MAIN_CLASS_NAME" value="Day07_AssertionsCheckBox.C02_Assertions" />
+      <option name="METHOD_NAME" value="wrongTitleTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_Assertions.urlTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_CheckBox.checkBoxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +110,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Day07_AssertionsCheckBox" />
-      <option name="MAIN_CLASS_NAME" value="Day07_AssertionsCheckBox.C01_Assertions" />
-      <option name="METHOD_NAME" value="urlTest" />
+      <option name="MAIN_CLASS_NAME" value="Day07_AssertionsCheckBox.C03_CheckBox" />
+      <option name="METHOD_NAME" value="checkBoxTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C01_Assertions" />
-        <item itemvalue="JUnit.C01_Assertions.fransizcaLinkTest" />
-        <item itemvalue="JUnit.C01_Assertions.logoTest" />
-        <item itemvalue="JUnit.C01_Assertions.titleTest" />
-        <item itemvalue="JUnit.C01_Assertions.urlTest" />
+        <item itemvalue="JUnit.C03_CheckBox.checkBoxTest" />
+        <item itemvalue="JUnit.C02_Assertions" />
+        <item itemvalue="JUnit.C02_Assertions.wrongTitleTest" />
+        <item itemvalue="JUnit.C02_Assertions.searchBoxTest" />
+        <item itemvalue="JUnit.C02_Assertions.imgTest" />
       </list>
     </recent_temporary>
   </component>
