@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4623b38-7a27-4e6b-8234-bcaec44424d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day10_ActionsClass/C02_DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day10_ActionsClass/C03_MoveToElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day10_ActionsClass/C04_KeyboardActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day10_ActionsClass/C05_KeyboardActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day10_ActionsClass/C06_KeyboardActions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +41,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C02_DragAndDrop.test01">
-    <configuration name="C01_SagClick.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C06_KeyboardActions.test01">
+    <configuration name="C03_MoveToElement.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
         <pattern>
@@ -47,14 +51,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Day10_ActionsClass" />
-      <option name="MAIN_CLASS_NAME" value="Day10_ActionsClass.C01_SagClick" />
+      <option name="MAIN_CLASS_NAME" value="Day10_ActionsClass.C03_MoveToElement" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_DragAndDrop.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C04_KeyboardActions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
         <pattern>
@@ -63,56 +67,55 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Day10_ActionsClass" />
-      <option name="MAIN_CLASS_NAME" value="Day10_ActionsClass.C02_DragAndDrop" />
+      <option name="MAIN_CLASS_NAME" value="Day10_ActionsClass.C04_KeyboardActions" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_KeyboardActions.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team120_JUnit_Fall2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day10_ActionsClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day10_ActionsClass" />
+      <option name="MAIN_CLASS_NAME" value="Day10_ActionsClass.C04_KeyboardActions" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_CokluPencere.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_KeyboardActions.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day09_Iframe_CokluWindows.*" />
+          <option name="PATTERN" value="Day10_ActionsClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day09_Iframe_CokluWindows" />
-      <option name="MAIN_CLASS_NAME" value="Day09_Iframe_CokluWindows.C03_CokluPencere" />
+      <option name="PACKAGE_NAME" value="Day10_ActionsClass" />
+      <option name="MAIN_CLASS_NAME" value="Day10_ActionsClass.C05_KeyboardActions" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_JSAlert.promptTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C06_KeyboardActions.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day08_DropDownMenu_Iframe.*" />
+          <option name="PATTERN" value="Day10_ActionsClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day08_DropDownMenu_Iframe" />
-      <option name="MAIN_CLASS_NAME" value="Day08_DropDownMenu_Iframe.C03_JSAlert" />
-      <option name="METHOD_NAME" value="promptTesti" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C04_BasicAuthentication.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Team120_JUnit_Fall2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day08_DropDownMenu_Iframe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day08_DropDownMenu_Iframe" />
-      <option name="MAIN_CLASS_NAME" value="Day08_DropDownMenu_Iframe.C04_BasicAuthentication" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="Day10_ActionsClass" />
+      <option name="MAIN_CLASS_NAME" value="Day10_ActionsClass.C06_KeyboardActions" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C02_DragAndDrop.test01" />
-        <item itemvalue="JUnit.C01_SagClick.test01" />
-        <item itemvalue="JUnit.C03_CokluPencere.test01" />
-        <item itemvalue="JUnit.C04_BasicAuthentication.test1" />
-        <item itemvalue="JUnit.C03_JSAlert.promptTesti" />
+        <item itemvalue="JUnit.C06_KeyboardActions.test01" />
+        <item itemvalue="JUnit.C05_KeyboardActions.test01" />
+        <item itemvalue="JUnit.C04_KeyboardActions" />
+        <item itemvalue="JUnit.C04_KeyboardActions.test01" />
+        <item itemvalue="JUnit.C03_MoveToElement.test01" />
       </list>
     </recent_temporary>
   </component>
