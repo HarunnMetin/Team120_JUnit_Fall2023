@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4623b38-7a27-4e6b-8234-bcaec44424d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day11_FileTestleri_Waits/C04_ExplicitlyWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day11_FileTestleri_Waits/C05_ExplicitlyWait.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C04_ExplicitlyWait.test01">
+  <component name="RunManager" selected="JUnit.C05_ExplicitlyWait.test01">
     <configuration name="C01_FileDownload.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
@@ -102,16 +102,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_KeyboardActions.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_ExplicitlyWait.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day10_ActionsClass.*" />
+          <option name="PATTERN" value="Day11_FileTestleri_Waits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day10_ActionsClass" />
-      <option name="MAIN_CLASS_NAME" value="Day10_ActionsClass.C06_KeyboardActions" />
+      <option name="PACKAGE_NAME" value="Day11_FileTestleri_Waits" />
+      <option name="MAIN_CLASS_NAME" value="Day11_FileTestleri_Waits.C05_ExplicitlyWait" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C05_ExplicitlyWait.test01" />
         <item itemvalue="JUnit.C04_ExplicitlyWait.test01" />
         <item itemvalue="JUnit.C03_FileUploadTesti.fileUploadTesti" />
         <item itemvalue="JUnit.C02_DinamikDosyaYoluOlusturma.test01" />
         <item itemvalue="JUnit.C01_FileDownload.test01" />
-        <item itemvalue="JUnit.C06_KeyboardActions.test01" />
       </list>
     </recent_temporary>
   </component>
