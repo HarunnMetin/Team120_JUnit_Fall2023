@@ -47,9 +47,25 @@ public class C03_FarkliWebTable extends TestBase {
         System.out.println("bos olmayan datasayisi : "+sayac);
 
         //6. Tablodaki satir sayisini yazdirin
+        List<WebElement> tablodakiSatirSayisi = driver.findElements(By.xpath("//*[@*='rowgroup']"));
+
+        System.out.println("tablodaki satir sayisi : "+tablodakiSatirSayisi.size());
         //7. Tablodaki sutun sayisini yazdirin
+        List<WebElement> ikinciSatirElementListesi = driver.findElements(By.xpath("(//*[@*='rowgroup'])[2]//*[@*='gridcell']"));
+        System.out.println("ikinci satir elemnt listesi : "+ikinciSatirElementListesi.size());
+
         //8. Tablodaki 3.kolonu yazdirin
+        System.out.println("============= 3. kolon ============");
+        List<WebElement> ucuncuKolon = driver.findElements(By.xpath("(//*[@*='rowgroup'])//*[@*='gridcell'][3]"));
+        int sayi = 1;
+        for (WebElement each:ucuncuKolon) {
+            if (!each.getText().isBlank()){
+                System.out.println(sayi+" - "+each.getText());
+                sayi++;
+            }
+        }
         //9. Tabloda "First Name" i Kierra olan kisinin Salary'sini yazdirin
+
         //10. Page sayfasinda bir method olusturun, Test sayfasindan satir ve sutun
         //sayisini girdigimde bana datayi yazdirsin
     }
