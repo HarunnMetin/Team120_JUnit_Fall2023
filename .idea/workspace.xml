@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4623b38-7a27-4e6b-8234-bcaec44424d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day12_Cookies_WebTables/C02_KlasikWebTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day12_Cookies_WebTables/C03_FarkliWebTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C02_KlasikWebTable.test01">
+  <component name="RunManager" selected="JUnit.C03_FarkliWebTable.webTablesTest">
     <configuration name="C01_Cookies.cookiesTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
@@ -85,17 +85,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_ExplicitlyWait.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_FarkliWebTable.webTablesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day11_FileTestleri_Waits.*" />
+          <option name="PATTERN" value="Day12_Cookies_WebTables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day11_FileTestleri_Waits" />
-      <option name="MAIN_CLASS_NAME" value="Day11_FileTestleri_Waits.C04_ExplicitlyWait" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="Day12_Cookies_WebTables" />
+      <option name="MAIN_CLASS_NAME" value="Day12_Cookies_WebTables.C03_FarkliWebTable" />
+      <option name="METHOD_NAME" value="webTablesTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C03_FarkliWebTable.webTablesTest" />
         <item itemvalue="JUnit.C02_KlasikWebTable.test01" />
         <item itemvalue="JUnit.C02_KlasikWebTable" />
         <item itemvalue="JUnit.C01_Cookies.cookiesTesti" />
         <item itemvalue="JUnit.C05_ExplicitlyWait.test01" />
-        <item itemvalue="JUnit.C04_ExplicitlyWait.test01" />
       </list>
     </recent_temporary>
   </component>
