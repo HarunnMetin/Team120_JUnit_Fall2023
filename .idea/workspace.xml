@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4623b38-7a27-4e6b-8234-bcaec44424d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day14_WriteExcel_ScreenShot_JsExecutor/C01_WriteExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day14_WriteExcel_ScreenShot_JsExecutor/Proje_Yapilabilir_Tum_Ulkeler_Listesi.xls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day13_ExcelOtomasyonu/C01_ReadExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day13_ExcelOtomasyonu/C01_ReadExcel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day13_ExcelOtomasyonu/dunyada_ulkeler_listesi-1121j.xls" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day13_ExcelOtomasyonu/dunyada_ulkeler_listesi-1121j.xls" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,24 +43,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\acer\Team120_JUnit_Fall2023\src\test\java\Day13_ExcelOtomasyonu" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\Team120_JUnit_Fall2023\src\test\java\Day14_WriteExcel_ScreenShot_JsExecutor" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.C01_ReadExcel.readExcelTestleri">
-    <configuration name="C01_Cookies.cookiesTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Team120_JUnit_Fall2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day12_Cookies_WebTables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day12_Cookies_WebTables" />
-      <option name="MAIN_CLASS_NAME" value="Day12_Cookies_WebTables.C01_Cookies" />
-      <option name="METHOD_NAME" value="cookiesTesti" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.C01_WriteExcel.excelTest">
     <configuration name="C01_ReadExcel.readExcelTestleri" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
@@ -72,6 +59,22 @@
       <option name="PACKAGE_NAME" value="Day13_ExcelOtomasyonu" />
       <option name="MAIN_CLASS_NAME" value="Day13_ExcelOtomasyonu.C01_ReadExcel" />
       <option name="METHOD_NAME" value="readExcelTestleri" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_WriteExcel.excelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team120_JUnit_Fall2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day14_WriteExcel_ScreenShot_JsExecutor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day14_WriteExcel_ScreenShot_JsExecutor" />
+      <option name="MAIN_CLASS_NAME" value="Day14_WriteExcel_ScreenShot_JsExecutor.C01_WriteExcel" />
+      <option name="METHOD_NAME" value="excelTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C01_WriteExcel.excelTest" />
         <item itemvalue="JUnit.C01_ReadExcel.readExcelTestleri" />
         <item itemvalue="JUnit.C03_FarkliWebTable.webTablesTest" />
         <item itemvalue="JUnit.C02_KlasikWebTable.test01" />
         <item itemvalue="JUnit.C02_KlasikWebTable" />
-        <item itemvalue="JUnit.C01_Cookies.cookiesTesti" />
       </list>
     </recent_temporary>
   </component>
