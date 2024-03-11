@@ -27,5 +27,23 @@ public class C01_ReadExcel {
         //fiziki excel dosyasinin bir kopyasini olusturmus olduk
 
 
+
+        //- 1.satirdaki 2.hucreye gidelim ve yazdiralim
+        System.out.println(sheet.getRow(2).getCell(1));
+
+        //- 1.satirdaki 2.hucreyi bir string degiskene atayalim ve yazdiralim
+        String birinciSatirIkinciHucre = sheet.getRow(3).getCell(1).toString();
+        System.out.println(birinciSatirIkinciHucre);
+
+        //- 2.satir 4.cell’in afganistan’in baskenti oldugunu test edelim
+
+        //- Satir sayisini bulalim
+        System.out.println(sheet.getLastRowNum());
+
+        //- Fiziki olarak kullanilan satir sayisini bulun
+        System.out.println(sheet.getPhysicalNumberOfRows());
+
+        //- Ingilizce Ulke isimleri ve baskentleri bir map olarak kaydedelim
+
     }
 }
