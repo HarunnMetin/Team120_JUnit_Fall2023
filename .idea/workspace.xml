@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4623b38-7a27-4e6b-8234-bcaec44424d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day14_WriteExcel_ScreenShot_JsExecutor/C02_GetScreenShotTumSayfa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day14_WriteExcel_ScreenShot_JsExecutor/C03_TumSayfaScreenShootMethoduKullanma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,16 +29,19 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/acer/Team120_JUnit_Fall2023/src/test/java/Day13_ExcelOtomasyonu&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/acer/Team120_JUnit_Fall2023/src/test/java/Day13_ExcelOtomasyonu",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\acer\Team120_JUnit_Fall2023\src\test\java\Day13_ExcelOtomasyonu" />
@@ -46,23 +50,7 @@
       <recent name="C:\Users\acer\Team120_JUnit_Fall2023\src\test\java\Day14_WriteExcel_ScreenShot_JsExecutor" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C02_GetScreenShotTumSayfa.tumSayfaScreenshot">
-    <configuration name="C01_ReadExcel.readExcelTestleri" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Team120_JUnit_Fall2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day13_ExcelOtomasyonu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day13_ExcelOtomasyonu" />
-      <option name="MAIN_CLASS_NAME" value="Day13_ExcelOtomasyonu.C01_ReadExcel" />
-      <option name="METHOD_NAME" value="readExcelTestleri" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.C03_TumSayfaScreenShootMethoduKullanma.testYoutube">
     <configuration name="C01_WriteExcel.excelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
@@ -95,33 +83,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_KlasikWebTable.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_TumSayfaScreenShootMethoduKullanma.testAB" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day12_Cookies_WebTables.*" />
+          <option name="PATTERN" value="Day14_WriteExcel_ScreenShot_JsExecutor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day12_Cookies_WebTables" />
-      <option name="MAIN_CLASS_NAME" value="Day12_Cookies_WebTables.C02_KlasikWebTable" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="Day14_WriteExcel_ScreenShot_JsExecutor" />
+      <option name="MAIN_CLASS_NAME" value="Day14_WriteExcel_ScreenShot_JsExecutor.C03_TumSayfaScreenShootMethoduKullanma" />
+      <option name="METHOD_NAME" value="testAB" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_FarkliWebTable.webTablesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_TumSayfaScreenShootMethoduKullanma.testWise" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day12_Cookies_WebTables.*" />
+          <option name="PATTERN" value="Day14_WriteExcel_ScreenShot_JsExecutor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day12_Cookies_WebTables" />
-      <option name="MAIN_CLASS_NAME" value="Day12_Cookies_WebTables.C03_FarkliWebTable" />
-      <option name="METHOD_NAME" value="webTablesTest" />
+      <option name="PACKAGE_NAME" value="Day14_WriteExcel_ScreenShot_JsExecutor" />
+      <option name="MAIN_CLASS_NAME" value="Day14_WriteExcel_ScreenShot_JsExecutor.C03_TumSayfaScreenShootMethoduKullanma" />
+      <option name="METHOD_NAME" value="testWise" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_TumSayfaScreenShootMethoduKullanma.testYoutube" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Team120_JUnit_Fall2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day14_WriteExcel_ScreenShot_JsExecutor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day14_WriteExcel_ScreenShot_JsExecutor" />
+      <option name="MAIN_CLASS_NAME" value="Day14_WriteExcel_ScreenShot_JsExecutor.C03_TumSayfaScreenShootMethoduKullanma" />
+      <option name="METHOD_NAME" value="testYoutube" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C03_TumSayfaScreenShootMethoduKullanma.testYoutube" />
+        <item itemvalue="JUnit.C03_TumSayfaScreenShootMethoduKullanma.testAB" />
+        <item itemvalue="JUnit.C03_TumSayfaScreenShootMethoduKullanma.testWise" />
         <item itemvalue="JUnit.C02_GetScreenShotTumSayfa.tumSayfaScreenshot" />
         <item itemvalue="JUnit.C01_WriteExcel.excelTest" />
-        <item itemvalue="JUnit.C01_ReadExcel.readExcelTestleri" />
-        <item itemvalue="JUnit.C03_FarkliWebTable.webTablesTest" />
-        <item itemvalue="JUnit.C02_KlasikWebTable.test01" />
       </list>
     </recent_temporary>
   </component>
