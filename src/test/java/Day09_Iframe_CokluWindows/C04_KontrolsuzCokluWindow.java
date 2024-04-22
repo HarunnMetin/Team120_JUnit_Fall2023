@@ -1,6 +1,8 @@
 package Day09_Iframe_CokluWindows;
 
 import org.junit.Test;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import utilities.TestBase;
 
 public class C04_KontrolsuzCokluWindow extends TestBase {
@@ -9,7 +11,6 @@ public class C04_KontrolsuzCokluWindow extends TestBase {
     public void cokluPencereTesti(){
 
         //● https://the-internet.herokuapp.com/windows adresine gidin.
-        driver.get("https://the-internet.herokuapp.com/windows");
         //● Sayfadaki textin “Opening a new window” olduğunu doğrulayın.
         //● Sayfa başlığının(title) “The Internet” olduğunu doğrulayın.
         //● Click Here butonuna basın.
