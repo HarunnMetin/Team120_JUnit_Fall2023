@@ -37,7 +37,7 @@ public class C04_KeyboardActions extends TestBase {
         //4- aramanin gerceklestigini test edin
 
         String expectedIcerik = "Samsung A71";
-        String actualIcerik = driver.findElement(By.xpath("//*[@id=\"search\"]/span[2]/div/h1/div/div[1]/div/div/span[3]")).getText();
+        String actualIcerik = driver.findElement(By.xpath("//span[@class='a-color-state a-text-bold']")).getText();
         Assert.assertTrue(actualIcerik.contains(expectedIcerik));
         bekle(3);
     }

@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4623b38-7a27-4e6b-8234-bcaec44424d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day14_WriteExcel_ScreenShot_JsExecutor/C05_YoutubeArama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day09_Iframe_CokluWindows/C04_KontrolsuzCokluWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day09_Iframe_CokluWindows/C04_KontrolsuzCokluWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day10_ActionsClass/C01_SagClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day10_ActionsClass/C01_SagClick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day10_ActionsClass/C04_KeyboardActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day10_ActionsClass/C04_KeyboardActions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +49,7 @@
       <recent name="C:\Users\acer\Team120_JUnit_Fall2023\src\test\java\Day14_WriteExcel_ScreenShot_JsExecutor" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C01_SagClick.test01">
+  <component name="RunManager" selected="JUnit.C05_KeyboardActions.test01">
     <configuration name="C01_SagClick.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
@@ -68,17 +66,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_DropDownMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_DragAndDrop.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day08_DropDownMenu_Iframe.*" />
+          <option name="PATTERN" value="Day10_ActionsClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day08_DropDownMenu_Iframe" />
-      <option name="MAIN_CLASS_NAME" value="Day08_DropDownMenu_Iframe.C02_DropDownMenu" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="Day10_ActionsClass" />
+      <option name="MAIN_CLASS_NAME" value="Day10_ActionsClass.C02_DragAndDrop" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,17 +114,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_YoutubeArama.youtubeAramaTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_KeyboardActions.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Team120_JUnit_Fall2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day14_WriteExcel_ScreenShot_JsExecutor.*" />
+          <option name="PATTERN" value="Day10_ActionsClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day14_WriteExcel_ScreenShot_JsExecutor" />
-      <option name="MAIN_CLASS_NAME" value="Day14_WriteExcel_ScreenShot_JsExecutor.C05_YoutubeArama" />
-      <option name="METHOD_NAME" value="youtubeAramaTesti" />
+      <option name="PACKAGE_NAME" value="Day10_ActionsClass" />
+      <option name="MAIN_CLASS_NAME" value="Day10_ActionsClass.C05_KeyboardActions" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C05_KeyboardActions.test01" />
+        <item itemvalue="JUnit.C02_DragAndDrop.test01" />
         <item itemvalue="JUnit.C01_SagClick.test01" />
         <item itemvalue="JUnit.C03_CokluPencere.test01" />
         <item itemvalue="JUnit.C04_BasicAuthentication.test1" />
-        <item itemvalue="JUnit.C02_DropDownMenu" />
-        <item itemvalue="JUnit.C05_YoutubeArama.youtubeAramaTesti" />
       </list>
     </recent_temporary>
   </component>
